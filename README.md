@@ -1,4 +1,4 @@
 joomla
 ======
 
-C'est le site benz-pierrick-quentin
+Test sur Joomla (Pierrick / Quentin / Ben)
